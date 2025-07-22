@@ -1,0 +1,14 @@
+body {
+    background-color: #212529;
+}
+
+.profile-img {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.projects-img {
+    height: 150px;
+}
+
+
